@@ -4,8 +4,6 @@
 
 - [Description](#description)
 - [Application Preview](#application-preview)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Links](#links)
 - [Technologies](#technologies)
 - [Questions](#questions)
@@ -13,19 +11,24 @@
 
 ## Description
 
+Create a react Portfolio
+
 ## Application Preview
 
-## Installation
-
-## Usage
+<p align="center">
+    <img alt="Preview" src="./src/assets/img/portfolio.png">
+</p>
 
 ## Links
 
--Deployed link:
+- Deployed link:
 
-- Github Repository:
+- Github Repository: https://github.com/Ianirwin18/React-Portfolio
 
 ## Technologies
+
+- React
+- Bootstrap Icons
 
 ## Questions
 
