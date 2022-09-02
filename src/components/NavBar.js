@@ -74,13 +74,16 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/ian-irwin-b92b78233/">
+                <a
+                  href="https://www.linkedin.com/in/ian-irwin-b92b78233/"
+                  target="blanks"
+                >
                   <img src={navIcon1} alt="" />
                 </a>
-                <a href="https://github.com/Ianirwin18">
+                <a href="https://github.com/Ianirwin18" target="blanks">
                   <img src={navIcon2} alt="" />
                 </a>
-                <a href={Pdf}>
+                <a href={Pdf} target="blanks">
                   <img src={navIcon3} alt="" />
                 </a>
               </div>

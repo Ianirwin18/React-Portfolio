@@ -62,16 +62,7 @@ export const Banner = () => {
                   }
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
-                  <h1>
-                    {`My Name is Ian`}{" "}
-                    <span
-                      className="txt-rotate"
-                      dataPeriod="1000"
-                      data-rotate='[ "Web Developer", "Web Designer" ]'
-                    >
-                      <span className="wrap">{text}</span>
-                    </span>
-                  </h1>
+                  <h1>{`My Name is Ian`}</h1>
                   <p>
                     I am a Full stack Developer. I graduated a full stack
                     developer from the University of Irvine bootcamp and am
