@@ -28,11 +28,7 @@ export const Projects = () => {
     {
       title: "Shmup",
       description: (
-        <a
-          class="links"
-          href="https://mxhuisken.github.io/colorGenerator/"
-          target="blanks"
-        >
+        <a class="links" href="https://shmup.herokuapp.com/" target="blanks">
           Deployed Page
         </a>
       ),
