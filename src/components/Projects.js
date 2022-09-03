@@ -15,7 +15,11 @@ export const Projects = () => {
     {
       title: "Color Generator",
       description: (
-        <a href="https://mxhuisken.github.io/colorGenerator/" target="blanks">
+        <a
+          class="links"
+          href="https://mxhuisken.github.io/colorGenerator/"
+          target="blanks"
+        >
           Deployed Page
         </a>
       ),
@@ -24,7 +28,11 @@ export const Projects = () => {
     {
       title: "Shmup",
       description: (
-        <a href="https://mxhuisken.github.io/colorGenerator/" target="blanks">
+        <a
+          class="links"
+          href="https://mxhuisken.github.io/colorGenerator/"
+          target="blanks"
+        >
           Deployed Page
         </a>
       ),
@@ -33,7 +41,11 @@ export const Projects = () => {
     {
       title: "Star wars Quiz",
       description: (
-        <a href="https://ianirwin18.github.io/Ian-I-codeQuiz/" target="blanks">
+        <a
+          class="links"
+          href="https://ianirwin18.github.io/Ian-I-codeQuiz/"
+          target="blanks"
+        >
           Deployed Page
         </a>
       ),
@@ -42,7 +54,11 @@ export const Projects = () => {
     {
       title: "Password Generator",
       description: (
-        <a href="https://ianirwin18.github.io/Ian-I-Homework3/" target="blanks">
+        <a
+          class="links"
+          href="https://ianirwin18.github.io/Ian-I-Homework3/"
+          target="blanks"
+        >
           Deployed Page
         </a>
       ),
@@ -52,6 +68,7 @@ export const Projects = () => {
       title: "Daily Planner",
       description: (
         <a
+          class="links"
           href="https://ianirwin18.github.io/Daily_Planner_hw5/"
           target="blanks"
         >
@@ -63,7 +80,11 @@ export const Projects = () => {
     {
       title: "Note Taker",
       description: (
-        <a href="https://notetaker-challenge-11.herokuapp.com/" target="blanks">
+        <a
+          class="links"
+          href="https://notetaker-challenge-11.herokuapp.com/"
+          target="blanks"
+        >
           Deployed Page
         </a>
       ),

@@ -49,6 +49,11 @@ p, a, li, button, ul {
   text-decoration: none;
 }
 
+.links{
+  text-decoration: none;
+  color: #fff;
+}
+
 a:hover {
   text-decoration: none;
 }
