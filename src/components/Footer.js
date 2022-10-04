@@ -4,7 +4,7 @@ import logo from "../assets/img/IIlogo.svg";
 import navIcon1 from "../assets/img/linkedin.svg";
 import navIcon2 from "../assets/img/github.svg";
 import navIcon3 from "../assets/img/file-earmark-person-fill.svg";
-import Pdf from "../documents/Resume.docx.pdf";
+import Pdf from "../documents/Ian_Irwin_Resume.pdf";
 
 export const Footer = () => {
   return (
