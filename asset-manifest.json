@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.0a49de43.css",
-    "main.js": "/React-Portfolio/static/js/main.7df1897d.js",
+    "main.css": "/React-Portfolio/static/css/main.762eaeff.css",
+    "main.js": "/React-Portfolio/static/js/main.0c836800.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/shmup.png": "/React-Portfolio/static/media/shmup.ab3835acdab1771a54ce.png",
     "static/media/color-sharp2.png": "/React-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -13,6 +13,7 @@
     "static/media/CentraNo2-Book.ttf": "/React-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/colorGen.png": "/React-Portfolio/static/media/colorGen.98d4a244f91d8502c678.png",
     "static/media/password.png": "/React-Portfolio/static/media/password.36d4280adfe6de0a77af.png",
+    "static/media/Ian_Irwin_Resume.pdf": "/React-Portfolio/static/media/Ian_Irwin_Resume.fa09fefb2d9858bc5995.pdf",
     "static/media/DailyPlanner.png": "/React-Portfolio/static/media/DailyPlanner.d399e73fd869d1e01330.png",
     "static/media/contact-img.svg": "/React-Portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/revicons.eot": "/React-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
@@ -34,12 +35,12 @@
     "static/media/css.svg": "/React-Portfolio/static/media/css.64fa1d1c4801d931c3717be71f6c020e.svg",
     "static/media/html5.svg": "/React-Portfolio/static/media/html5.8ae3d4adcd70a1028a6377697d9f33b0.svg",
     "static/media/file-earmark-person-fill.svg": "/React-Portfolio/static/media/file-earmark-person-fill.fe324fae4114a4f3b69741e2e3b68f2b.svg",
-    "main.0a49de43.css.map": "/React-Portfolio/static/css/main.0a49de43.css.map",
-    "main.7df1897d.js.map": "/React-Portfolio/static/js/main.7df1897d.js.map",
+    "main.762eaeff.css.map": "/React-Portfolio/static/css/main.762eaeff.css.map",
+    "main.0c836800.js.map": "/React-Portfolio/static/js/main.0c836800.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a49de43.css",
-    "static/js/main.7df1897d.js"
+    "static/css/main.762eaeff.css",
+    "static/js/main.0c836800.js"
   ]
 }
