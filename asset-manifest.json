@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.762eaeff.css",
-    "main.js": "/React-Portfolio/static/js/main.0c836800.js",
+    "main.js": "/React-Portfolio/static/js/main.fb32c2b9.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/shmup.png": "/React-Portfolio/static/media/shmup.ab3835acdab1771a54ce.png",
     "static/media/color-sharp2.png": "/React-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/Quiz.png": "/React-Portfolio/static/media/Quiz.06f3347e93f700591111.png",
-    "static/media/Resume.docx.pdf": "/React-Portfolio/static/media/Resume.docx.2d294bc0738f1b845897.pdf",
     "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.67e0646f6aa3ebe098c7.png",
+    "static/media/Ian_Irwin_Resume.pdf": "/React-Portfolio/static/media/Ian_Irwin_Resume.5b01085e7ae68934d081.pdf",
     "static/media/CentraNo2-Bold.ttf": "/React-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/React-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/React-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/colorGen.png": "/React-Portfolio/static/media/colorGen.98d4a244f91d8502c678.png",
     "static/media/password.png": "/React-Portfolio/static/media/password.36d4280adfe6de0a77af.png",
-    "static/media/Ian_Irwin_Resume.pdf": "/React-Portfolio/static/media/Ian_Irwin_Resume.fa09fefb2d9858bc5995.pdf",
     "static/media/DailyPlanner.png": "/React-Portfolio/static/media/DailyPlanner.d399e73fd869d1e01330.png",
     "static/media/contact-img.svg": "/React-Portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/revicons.eot": "/React-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
@@ -36,11 +35,11 @@
     "static/media/html5.svg": "/React-Portfolio/static/media/html5.8ae3d4adcd70a1028a6377697d9f33b0.svg",
     "static/media/file-earmark-person-fill.svg": "/React-Portfolio/static/media/file-earmark-person-fill.fe324fae4114a4f3b69741e2e3b68f2b.svg",
     "main.762eaeff.css.map": "/React-Portfolio/static/css/main.762eaeff.css.map",
-    "main.0c836800.js.map": "/React-Portfolio/static/js/main.0c836800.js.map",
+    "main.fb32c2b9.js.map": "/React-Portfolio/static/js/main.fb32c2b9.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.762eaeff.css",
-    "static/js/main.0c836800.js"
+    "static/js/main.fb32c2b9.js"
   ]
 }
