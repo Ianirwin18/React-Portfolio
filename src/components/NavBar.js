@@ -6,7 +6,7 @@ import navIcon2 from "../assets/img/github.svg";
 import navIcon3 from "../assets/img/file-earmark-person-fill.svg";
 import { HashLink } from "react-router-hash-link";
 import { BrowserRouter as Router } from "react-router-dom";
-import Pdf from "../documents/Resume.docx.pdf";
+import Pdf from "../documents/Ian_Irwin_Resume.pdf";
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
